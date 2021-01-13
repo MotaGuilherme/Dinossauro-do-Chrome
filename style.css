@@ -17,7 +17,19 @@ body {
     height: 60px;
     bottom: 0%;
     
+    
     background-image: url(cactus.png);
+
+}
+
+.dino2{
+    position: absolute;
+    width: 39px;
+    height: 71px;
+    top: -20%;
+
+    background-image: url(Capturar.JPG);
+
 
 }
 .game-over {
